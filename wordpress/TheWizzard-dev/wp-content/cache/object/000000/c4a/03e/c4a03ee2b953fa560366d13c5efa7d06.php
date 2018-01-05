@@ -1,0 +1,9 @@
+RLZ<?php exit; ?>a:1:{s:7:"content";O:8:"stdClass":24:{s:2:"ID";i:1241;s:11:"post_author";s:1:"2";s:9:"post_date";s:19:"2012-01-07 07:07:21";s:13:"post_date_gmt";s:19:"2012-01-07 14:07:21";s:12:"post_content";s:885:"This is a sticky post.
+
+There are a few things to verify:
+<ul>
+	<li>The sticky post should be distinctly recognizable in some way in comparison to normal posts. You can style the <code>.sticky</code> class if you are using the <a title="WordPress Codex post_class() Function" href="https://codex.wordpress.org/Function_Reference/post_class" target="_blank">post_class()</a> function to generate your post classes, which is a best practice.</li>
+	<li>They should show at the very top of the blog index page, even though they could be several posts back chronologically.</li>
+	<li>They should still show up again in their chronologically correct postion in time, but without the sticky indicator.</li>
+	<li>If you have a plugin or widget that lists popular posts or comments, make sure that this sticky post is not always at the top of those lists unless it really is popular.</li>
+</ul>";s:10:"post_title";s:16:"Template: Sticky";s:12:"post_excerpt";s:0:"";s:11:"post_status";s:7:"publish";s:14:"comment_status";s:6:"closed";s:11:"ping_status";s:6:"closed";s:13:"post_password";s:0:"";s:9:"post_name";s:15:"template-sticky";s:7:"to_ping";s:0:"";s:6:"pinged";s:0:"";s:13:"post_modified";s:19:"2012-01-07 07:07:21";s:17:"post_modified_gmt";s:19:"2012-01-07 14:07:21";s:21:"post_content_filtered";s:0:"";s:11:"post_parent";i:0;s:4:"guid";s:29:"http://wptest.io/demo/?p=1241";s:10:"menu_order";i:0;s:9:"post_type";s:4:"post";s:14:"post_mime_type";s:0:"";s:13:"comment_count";s:1:"0";s:6:"filter";s:3:"raw";}}

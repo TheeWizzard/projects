@@ -1,0 +1,387 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-18 10:38+0000\n"
+"PO-Revision-Date: 2017-03-18 10:57+0000\n"
+"Last-Translator: felix <felix@richwp.com>\n"
+"Language-Team: German\n"
+"Language: de-DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Text in function
+#: richmasterxs/comments.php:33
+msgid "&larr; Older Comments"
+msgstr "&larr; Vorherige Kommentare"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "2. Lead Color"
+msgstr "2. Hauptfarbe"
+
+#. Text in echo
+#: richmasterxs/index.php:48
+msgid "404 - Sorry, nothing was found!"
+msgstr "404 - Nichts, aber auch gar nichts konnte gefunden werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">Veröffentlicht am</span> %s"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Above Comments Widget Area"
+msgstr "Widgetbereich über den Kommentaren"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Above Related Posts Widget Area"
+msgstr "Widgetbereich den Verwandten Artinkeln"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear above the Comments Section"
+msgstr ""
+"Fügen Sie hier Widgets hinzu, welche über den Kommentaren angezeigt werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear above the Related Posts Section"
+msgstr ""
+"Fügen Sie hier Widgets hinzu, welche über den Verwandten Artikeln angezeigt "
+"werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear in the first footer widget area."
+msgstr ""
+"Fügen Sie hier Widgets hinzu, welche in dem ersten Footer-Widgetereich "
+"angezeigt werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear in the fourth footer widget area."
+msgstr ""
+"Fügen Sie hier Widgets hinzu, welche in dem viertem Footer-Widgetereich "
+"angezeigt werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear in the second footer widget area."
+msgstr ""
+"Fügen Sie hier Widgets hinzu, welche in dem zweiten Footer-Widgetereich "
+"angezeigt werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear in the sidebar of the shop archives."
+msgstr ""
+"Fügen Sie hier Widgets hinzu, welche in Shop Artikellisten angezeigt werden.."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear in the third footer widget area."
+msgstr ""
+"Fügen Sie hir Widgets hinzu, welche in dem dritten Footer-Widgetereich "
+"angezeigt werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid ""
+"Add widgets here to appear in your sidebar. This widget area stretches half "
+"the width of the sidebar."
+msgstr ""
+"Fügen Sie hir Widgets hinzu, welche in der Seitenleiste angezeigt werden. "
+"Dieser Widgetbereich erstreckt sich über die Hälfte der Seitenleistenbreite."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid ""
+"Add widgets here to appear in your sidebar. This widget area stretches over "
+"the full width of the sidebar."
+msgstr ""
+"Fügen Sie hir Widgets hinzu, welche in der Seitenleiste angezeigt werden. "
+"Dieser Widgetbereich erstreckt sich über die komplette der "
+"Seitenleistenbreite."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear on bottom of your page."
+msgstr ""
+"Fügen Sie hir Widgets hinzu, welche ganz unten unter der Fußzeile angezeigt "
+"werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear on top of your page below the Hero Image"
+msgstr ""
+"Fügen Sie hir Widgets hinzu, welche unter dem Menü bzw. des Hero/Cover Bild, "
+"wenn vorhanden, angezeigt werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear within the front page cover image."
+msgstr ""
+"Fügen Sie hir Widgets hinzu, welche über dem Hero/Cover Bild auf der "
+"Startseite angezeigt werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear within the hero images on posts & pages."
+msgstr ""
+"Fügen Sie hir Widgets hinzu, welche über dem Hero/Cover Bild der Artikel und "
+"Seiten angezeigt werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Add widgets here to appear within the shop page cover image."
+msgstr ""
+"Fügen Sie hir Widgets hinzu, welche über dem Hero/Cover Bild auf des Shops "
+"angezeigt werden."
+
+#. Text in echo
+#: richmasterxs/woocommerce/cart/cart.php:138
+msgid "Apply Coupon"
+msgstr "Coupon einlösen"
+
+#. Text in function
+#: richmasterxs/woocommerce/cart/cart.php:121
+msgid "Available on backorder"
+msgstr "Bitte kontaktieren Sie uns"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Bottom Widget Area"
+msgstr "Unterer Widgetbereich"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "Button Font Color"
+msgstr "Button Schriftfarbe"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "Colors"
+msgstr "Farben"
+
+#. Text in echo
+#: richmasterxs/comments.php:52
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "Copyright Notice in Footer"
+msgstr "Copyright Hinweis in Fußzeile"
+
+#. Text in echo
+#: richmasterxs/woocommerce/cart/cart.php:138
+msgid "Coupon"
+msgstr "Coupon"
+
+#. Text in echo
+#: richmasterxs/woocommerce/cart/cart.php:138
+msgid "Coupon code"
+msgstr "Coupon Code"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "Display Related Posts"
+msgstr "Verwandte Artikel anzeigen"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "Featured Image as Hero Image on Single Post View"
+msgstr "Artikelbilder als Hero/Cover Images anzeigen"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "First Footer Widget Area"
+msgstr "Erster Footer Widgetbereich"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Footer Navigation"
+msgstr "Fußzeilennavigation"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Fourth Footer Widget Area"
+msgstr "Vierter Footer Widgetbereich"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Front Cover Widget Area"
+msgstr "Startseiten Hero/Cover Bild Widgetbereich"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "Header Color"
+msgstr "Kopfzeilen Hintergrundfarbe"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "Header Font Color"
+msgstr "Kopfzeilen Schriftfarbe"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "Header Font Hover Color"
+msgstr "Kopfzeilen Hintergrundfarbe Hover"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Hero Image Widget Area"
+msgstr "Cover / Hero Bild Widgetbereich"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Icon Menu"
+msgstr "Icon Menü"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "Lead Color"
+msgstr "Hauptfarbe"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Menu Shop"
+msgstr "Shop Menü"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "Misc."
+msgstr "Weiteres"
+
+#. Text in function
+#: richmasterxs/comments.php:33
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare"
+
+#. Text in echo
+#: richmasterxs/index.php:45
+msgid "Nothing matched your search criteria. Please try searching again:"
+msgstr ""
+"Leider könnten wir zu den eingegebenen Suchbegriffen nichts finden. "
+"Versuchen Sie es erneut:"
+
+#. Text in function
+#: richmasterxs/single.php:34
+msgid "Pages:"
+msgstr "Seiten:"
+
+#. Text in echo
+#: richmasterxs/woocommerce/cart/cart.php:37
+#: richmasterxs/woocommerce/cart/cart.php:97
+msgid "Price"
+msgstr "Preis"
+
+#. Text in function
+#: richmasterxs/functions.php:1 richmasterxs/header.php:39
+msgid "Primary Menu"
+msgstr "Hauptmenü"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Primary Sidebar"
+msgstr "Seitenleiste"
+
+#. Text in echo
+#: richmasterxs/woocommerce/cart/cart.php:36
+#: richmasterxs/woocommerce/cart/cart.php:79
+msgid "Product"
+msgstr "Produkt"
+
+#. Text in echo
+#: richmasterxs/woocommerce/cart/cart.php:38
+#: richmasterxs/woocommerce/cart/cart.php:103
+msgid "Quantity"
+msgstr "Anzahl"
+
+#. Text in function
+#: richmasterxs/woocommerce/cart/cart.php:121
+msgid "Remove this item"
+msgstr "Artikel entfernen"
+
+#. Text in echo
+#: richmasterxs/header.php:58 richmasterxs/searchform.php:7
+#: richmasterxs/searchform.php:10
+msgid "Search"
+msgstr "Suche"
+
+#. Text in function
+#: richmasterxs/index.php:23
+msgid "Search for: %s"
+msgstr "Suche nach: %s"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Second Footer Widget Area"
+msgstr "Zweiter Footer Widgetbereich"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Secondary Sidebar"
+msgstr "Zweite Seitenleiste"
+
+#. Text in echo
+#: richmasterxs/index.php:50
+msgid "Sorry, nothing was found!"
+msgstr "Es konnte nichts gefunden werden."
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Tertiary Sidebar"
+msgstr "Dritte Seitenleiste"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Third Footer Widget Area"
+msgstr "Dritter Footer Widgetbereich"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Top Widget Area"
+msgstr "Top Widgetbereich"
+
+#. Text in echo
+#: richmasterxs/woocommerce/cart/cart.php:39
+#: richmasterxs/woocommerce/cart/cart.php:120
+msgid "Total"
+msgstr "Summe"
+
+#. Text in echo
+#: richmasterxs/woocommerce/cart/cart.php:144
+msgid "Update Cart"
+msgstr "Warenkorb aktualisieren"
+
+#. Text in echo
+#: richmasterxs/loop.php:8
+msgid "View Post"
+msgstr "Artikel lesen"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Woo Hero Image Widget Area"
+msgstr "Shop Hero / Cover Bild Widgetbereich"
+
+#. Text in function
+#: richmasterxs/functions.php:1
+msgid "Woo Sidebar Widget Area"
+msgstr "Shop Widgetbereich"
+
+#. Text in function
+#: richmasterxs/inc/richwp-options.php:1
+msgid "WooCommerce Product Archive Hero Image"
+msgstr "Shop Produkt Hero / Cover Bild"
+
+#. Text in function
+#: richmasterxs/single-related.php:2
+msgid "You May Also Like..."
+msgstr "Dies könnte Sie auch interessieren ... "
